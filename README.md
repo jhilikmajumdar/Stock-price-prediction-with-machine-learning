@@ -1,5 +1,34 @@
-# Stock-price-prediction-with-machine-learning
 
+### Stock Price Prediction with Machine Learning
+
+#### Introduction:
+
+This repository contains a comprehensive project focused on predicting the stock prices of a given company using machine learning techniques. While the unpredictability of the stock market is acknowledged, this project aims to employ both simple and advanced predictive models to gain insights into potential future stock behaviors.
+
+#### Key Features:
+
+1. **Time Series Analysis:** Stock prices are essentially a time series data. The project starts with understanding the basics of stock price movement and conducting a preliminary analysis using descriptive statistics and visualizations.
+
+2. **Moving Average:** A simple moving average method is used as a baseline to understand stock price trends.
+
+3. **Long Short Term Memory (LSTM):** This is an advanced deep learning technique used for sequence prediction problems. Due to the sequential nature of stock prices, LSTMs are considered a viable model.
+
+4. **Risk Management:** In addition to prediction, the project offers an in-depth risk management section. This includes calculating Value at Risk (VaR) and Conditional Value at Risk (CVaR), which are pivotal in understanding the potential losses in investments.
+
+5. **Evaluation:** Every predictive model requires evaluation. This project incorporates evaluation metrics to understand the performance of the predictive models.
+
+6. **Interactive Tool:** An interactive module is added where a user can input a date and receive the stock price prediction for that date based on the trained model.
+
+#### Getting Started:
+
+To begin with the project, clone the repository and follow the and use the stock_price.ipynb script.
+
+#### Acknowledgements:
+
+This project was influenced by the rapid evolution and interest in the FinTech sector. Special thanks to open-source communities and platforms for their valuable resources and tutorials.
+
+
+#### Conclusion :
 Given the data and the various analyses we've conducted on the stock prices of Apple (AAPL), we can draw the following conclusions:
 Stock Price Predictions:
 
