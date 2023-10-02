@@ -21,7 +21,7 @@ This repository contains a comprehensive project focused on predicting the stock
 
 #### Getting Started:
 
-To begin with the project, clone the repository and follow the and use the stock_price.ipynb script.
+To begin with the project, clone the repository and follow the and use the stock_price.py.ipynb script.
 
 #### Acknowledgements:
 
@@ -38,7 +38,7 @@ LSTM :
 Linear Regression:
  This modelling although simple, can sometimes be effective in forecasting short-term trends but is based on the assumption that past linear trends will continue.
 
-# Risk Management Analysis:
+**Risk Management Analysis**:
 
 **Value at Risk (VaR)** : The calculated VaR gives us a risk threshold level, beyond which there is only a small probability that the investment's returns would drop. In simpler terms, VaR provides a worst-case scenario given a confidence interval. The lower this number (more negative), the riskier the stock is considered to be.
 
