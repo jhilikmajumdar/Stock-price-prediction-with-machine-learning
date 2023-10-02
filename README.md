@@ -5,6 +5,8 @@
 
 This repository contains a comprehensive project focused on predicting the stock prices of a given company using machine learning techniques. While the unpredictability of the stock market is acknowledged, this project aims to employ both simple and advanced predictive models to gain insights into potential future stock behaviors.
 
+**It has got a nice interactive way to give dates and it shows the probable stock price from two different method used.**
+
 #### Key Features:
 
 1. **Time Series Analysis:** Stock prices are essentially a time series data. The project starts with understanding the basics of stock price movement and conducting a preliminary analysis using descriptive statistics and visualizations.
